@@ -1,3 +1,3 @@
-Логвинов Лев
-гр. К3220
-поток ВИМ 1.2
+University repo for Visualization and Modeling subject
+
+Data visualisation using Python libraries
